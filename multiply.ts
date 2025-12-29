@@ -9,4 +9,4 @@ const multiply=(num : number): void=>{
 }
 
 
-multiply(10);
+multiply(20);
