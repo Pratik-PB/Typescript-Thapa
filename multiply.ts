@@ -4,7 +4,7 @@
 
 
 const multiply=(num : number): void=>{
-      num = num * 2;
+      num = num * 4;
         console.log(`The multiplied value is: ${num}`);
 }
 
