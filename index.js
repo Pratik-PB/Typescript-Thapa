@@ -23,3 +23,6 @@ var findNumber = function (numbers, target) {
 };
 var result = findNumber([10, 25, 36, 47, 58], 36);
 console.log(result);
+
+
+

@@ -47,4 +47,11 @@ let result: number = findNumber([10,25,36,47,58],36);
 console.log(result);
 
 
+let fruits :string[] =["apple","banana","mango"];
+
+fruits.push("orange");
+
+console.log(fruits);
+
+
 
