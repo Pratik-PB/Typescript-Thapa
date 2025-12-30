@@ -89,3 +89,34 @@ const calculateTotalPrice=(product:Product)=>{
 
 const result = calculateTotalPrice(product1)
 console.log(result);
+
+
+
+
+
+type Student={
+    studentId: string;
+    studentName: string;
+    studentAge: number;
+    studentClass:string;
+    studentDivision: string;
+    studentBloodType?:string
+    studentAddress:{
+        city:string;
+        state:string;
+        country?:string
+    }
+}
+
+const student1:Student={
+    studentId:"STD001",
+    studentName:"Pratik Babar",
+    studentAge: 26,
+    studentDivision:"A",
+    studentClass:"BE-2nd Year",
+    studentAddress:{
+        city:"Sangli",
+        state:"Maharashtra"
+    }
+}
+console.log(student1);
