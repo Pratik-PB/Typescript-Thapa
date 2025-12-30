@@ -11,3 +11,11 @@ const num10: number=20;
 const num11: number =5;
 const num12: number=20;
 console.log(num12/num10);
+const vari1: number=20;
+const vari2: number=20;
+const vari3: number=20;
+const vari4: number=20;
+const vari5: number=20;
+
+
+console.log(num1/num2);
