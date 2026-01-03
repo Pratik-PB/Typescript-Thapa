@@ -1,9 +1,21 @@
+const num1: number=20;
+const num2: number=20;
+const num3: number=20;
+const num4: number=20;
+const num5: number=20;
+const num6: number=20;
+const num7: number=20;
+const num8: number=20;
+const num9: number =10;
+const num10: number=20;
+const num11: number =5;
+const num12: number=20;
+console.log(num12/num10);
+const vari1: number=20;
+const vari2: number=20;
+const vari3: number=20;
+const vari4: number=20;
+const vari5: number=20;
 
-
-
-
-const num1: number =10;
-
-const num2: number =5;
 
 console.log(num1/num2);
